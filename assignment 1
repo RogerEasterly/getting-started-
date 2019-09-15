@@ -1,0 +1,10 @@
+The head of the accounting department told you that the company’s annual profit is typically 19 percent 
+of the company’s total sales. He has tasked you to write a simple Python program that will calculate 
+and display the estimated profit amount from an annual amount of sale. In this coding assignment you 
+will utilize what you learned while reviewing the required resources for Week 1. Your program will 
+have to display a clear message to prompt the user to enter any amount of sale (Total Sale: $xxxxx), and 
+it should calculate the estimated profit amount, and show the result in the following format:
+
+Profit Amount: $xxxxxx
+Once you have completed the program, take a screen shot of the completed functionality 
+(including the input and the output) and save it in a Word document, along with the script.
